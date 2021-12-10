@@ -1,0 +1,18 @@
+{
+  "name": "upwork.discord",
+  "version": "1.0.0",
+  "description": "The discord bot",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nightmare aka Aselock <nightmare.flow0@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "discord-slash-commands-client": "^1.2.2",
+    "discord.js": "^13.3.1",
+    "faker": "^5.5.3",
+    "get-random-emoji": "^1.0.0",
+    "mongodb": "^4.1.4"
+  }
+}
